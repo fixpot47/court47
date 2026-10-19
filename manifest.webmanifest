@@ -1,0 +1,10 @@
+{
+  "name": "Court47 Vision",
+  "short_name": "Court47",
+  "description": "Private-first basketball practice camera and tracking",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0c1020",
+  "theme_color": "#141728",
+  "lang": "ru"
+}
